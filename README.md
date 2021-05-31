@@ -2,5 +2,8 @@
 
 I'm Hideo Hattori.
 
-[![hhatto's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhatto)](https://github.com/hhatto/hhatto)
-[![hhatto's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhatto&layout=compact)](https://github.com/hhatto/hhatto)
+![](https://komarev.com/ghpvc/?username=hhatto&color=blue)
+
+[![](https://raw.githubusercontent.com/hhatto/hhatto/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hhatto/hhatto/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hhatto/hhatto/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hhatto/hhatto/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hhatto/hhatto/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
