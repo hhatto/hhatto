@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Hideo Hattori.
-
 Hi, I'm hhatto
 
 author of [autopep8](https://github.com/hhatto/autopep8), [gocloc](https://github.com/hhatto/gocloc) and [pgmagick](https://github.com/hhatto/pgmagick), and develop various OSS.
