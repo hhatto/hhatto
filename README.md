@@ -2,7 +2,8 @@
 
 Hi, I'm hhatto
 
-author of [autopep8](https://github.com/hhatto/autopep8), [gocloc](https://github.com/hhatto/gocloc) and [pgmagick](https://github.com/hhatto/pgmagick), and develop various OSS.
+Author of [autopep8](https://github.com/hhatto/autopep8), [gocloc](https://github.com/hhatto/gocloc) and [pgmagick](https://github.com/hhatto/pgmagick), and develop various OSS.
+
 I'm good at building tools and libraries using Python, Rust, and Go.
 
 ![](https://komarev.com/ghpvc/?username=hhatto&color=blue)
